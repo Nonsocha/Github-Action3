@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Nonsocha/Github-Action3#readme",
   "devDependencies": {
-    "eslint": "^9.36.0"
+    "eslint": "^8.57.1"
   }
 }
